@@ -9,7 +9,7 @@ package studentdetailsprint;
  * @author srinivsi
  */
 public class Student 
-{
+{///kjoij
     private String name; //encapsulation
     private  int age;
     
